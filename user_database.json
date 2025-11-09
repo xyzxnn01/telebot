@@ -1,0 +1,24 @@
+{
+  "8244397252": {
+    "signal_limit": 100000005,
+    "signals_used": 24,
+    "referred_by": null,
+    "referrals": [
+      "6560302694"
+    ],
+    "username": "Trading_Rabbit",
+    "first_name": "\u200b\ud835\udde7\ud835\uddff\ud835\uddee\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4",
+    "bot_unlocked": false
+  },
+  "6560302694": {
+    "signal_limit": 15,
+    "signals_used": 2,
+    "referred_by": "8244397252",
+    "referrals": [],
+    "username": "GamerXdm",
+    "first_name": "Gamer",
+    "channels_joined": [],
+    "pending_referrer": null,
+    "bot_unlocked": false
+  }
+}
